@@ -1,0 +1,2 @@
+# sysconfig
+FreeBSD system configuration
