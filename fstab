@@ -1,0 +1,8 @@
+# Device	Mountpoint	FStype	Options	Dump	Pass#
+/dev/ada0p2	/		ufs	rw	1	1
+/dev/ada0p4	/usr		ufs	rw	2	2
+/dev/ada0p5	/home		ufs	rw	2	2
+
+# mpd 
+/home/ducpfp/music/ /var/mpd/music/ nullfs rw 0 0
+
